@@ -1,3 +1,4 @@
 # Helloworld
-This is my first git repository
-author - Haider ali
+This is my first git repository.
+<br>
+Author - Haider ali
